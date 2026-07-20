@@ -1,0 +1,26 @@
+{
+  "presetVersion": 1,
+  "thumbnail": {
+    "size": [
+      512,
+      512
+    ],
+    "projection": "orthographic",
+    "view": "isometric",
+    "background": "#ffffff",
+    "showEdges": false
+  },
+  "stats": {
+    "precision": 2
+  },
+  "mesh": {
+    "linearDeflection": 0.1,
+    "angularDeflectionDeg": 15,
+    "relative": false
+  },
+  "partGlossary": {
+    "enabled": true,
+    "onlyAssemblies": false,
+    "exclude": []
+  }
+}
